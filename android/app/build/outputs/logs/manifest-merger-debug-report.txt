@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_masked-view] /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/mainak/.gradle/caches/transforms-2/files-2.1/2ba9682f90075d4974b358ea01494da3/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/mainak/.gradle/caches/transforms-2/files-2.1/022b5999f28f559341f41ec0d00d9b8c/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/mainak/.gradle/caches/transforms-2/files-2.1/fa5cee80dd473324571080f62a6d3715/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/6f78d434c88749c824461d7b8adc6dc1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/e67a8b139ea15a18aab7d5b67aa789ca/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/eece70f5c6ec49657645cf5ac3f8e959/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/ebf709c58bbdd8b3a1043652fedabbd3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/03156b35cb4dcd5874a1ea28b0bddb98/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/c3151c58a3222610534c254ec0831391/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/249073bf7b14a5a5e99f3c297c69dbb7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/997d0401abba028861e195cac6567390/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/f088ae4e76ccf20daedb62e512fe1f9e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/699349b5e2c8a63c54e76fcdd9af9e72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/aa2f28e905f373a9cd26690cde6a2ef4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/388a329bfd6715dbc938f1d1b68613e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mainak/.gradle/caches/transforms-2/files-2.1/5a97afdc0c9eb718f97035c089788a5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/15a9c45b897b97677343133bccea40e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/efe9a9d23a05a1c659b4b734efb069d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/a0cce0e68ad2bf1dfab76d3429bb66b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/cb417ae66f1cc1691b0a9c193246c8e9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/a0b312ca29767d16cc7d995b66ee7c0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/7962838c3066a06748cd03e3b4410bbe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/9fd342ea18ce11ab59c833cfa02a2408/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/590008c629dd61d79f0d349c3badcd24/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/mainak/.gradle/caches/transforms-2/files-2.1/28ddd741ed461efaea44283fbe1a92ba/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/616b4b7f25c387751d0fda07abfdae3e/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/9b23b2601e6dc1fee64986023adef92d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/8209c8b4c95bc216ba858129aa22303e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/904f558982651fcc0c1e7967600fcdef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/53d5eb6fa8e5c477c5405a9193327243/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/39ac51847fa4f21a76929079838c03fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/152837866666c5095e33b22a00df95dd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/5be22607dac7dfc564a06cd957fd1503/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/86cd0e425ae5f852a2e8fc9ac007babf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/d37256b8b172a21929113ba6f3f0c9ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/b758d8c2f86015fafa30b63a36f86a56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/4261e65c9838fda5bdb262ffb86ccbcc/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:2:3-37
+		INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:2:3-37
+		INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/mainak/.gradle/caches/transforms-2/files-2.1/2ba9682f90075d4974b358ea01494da3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/mainak/.gradle/caches/transforms-2/files-2.1/2ba9682f90075d4974b358ea01494da3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/997d0401abba028861e195cac6567390/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/997d0401abba028861e195cac6567390/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/mainak/.gradle/caches/transforms-2/files-2.1/28ddd741ed461efaea44283fbe1a92ba/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/mainak/.gradle/caches/transforms-2/files-2.1/28ddd741ed461efaea44283fbe1a92ba/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/616b4b7f25c387751d0fda07abfdae3e/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/616b4b7f25c387751d0fda07abfdae3e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/mainak/.gradle/caches/transforms-2/files-2.1/28ddd741ed461efaea44283fbe1a92ba/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.concept_media_player.MainActivity
+ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_masked-view] /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/mainak/.gradle/caches/transforms-2/files-2.1/2ba9682f90075d4974b358ea01494da3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/mainak/.gradle/caches/transforms-2/files-2.1/2ba9682f90075d4974b358ea01494da3/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/mainak/.gradle/caches/transforms-2/files-2.1/022b5999f28f559341f41ec0d00d9b8c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/mainak/.gradle/caches/transforms-2/files-2.1/022b5999f28f559341f41ec0d00d9b8c/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/mainak/.gradle/caches/transforms-2/files-2.1/fa5cee80dd473324571080f62a6d3715/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/mainak/.gradle/caches/transforms-2/files-2.1/fa5cee80dd473324571080f62a6d3715/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/6f78d434c88749c824461d7b8adc6dc1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/6f78d434c88749c824461d7b8adc6dc1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/e67a8b139ea15a18aab7d5b67aa789ca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/e67a8b139ea15a18aab7d5b67aa789ca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/eece70f5c6ec49657645cf5ac3f8e959/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/eece70f5c6ec49657645cf5ac3f8e959/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/ebf709c58bbdd8b3a1043652fedabbd3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/ebf709c58bbdd8b3a1043652fedabbd3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/03156b35cb4dcd5874a1ea28b0bddb98/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/03156b35cb4dcd5874a1ea28b0bddb98/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/c3151c58a3222610534c254ec0831391/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/c3151c58a3222610534c254ec0831391/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/249073bf7b14a5a5e99f3c297c69dbb7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/249073bf7b14a5a5e99f3c297c69dbb7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/997d0401abba028861e195cac6567390/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/997d0401abba028861e195cac6567390/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/f088ae4e76ccf20daedb62e512fe1f9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/f088ae4e76ccf20daedb62e512fe1f9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/699349b5e2c8a63c54e76fcdd9af9e72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/699349b5e2c8a63c54e76fcdd9af9e72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/aa2f28e905f373a9cd26690cde6a2ef4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/aa2f28e905f373a9cd26690cde6a2ef4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/388a329bfd6715dbc938f1d1b68613e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/388a329bfd6715dbc938f1d1b68613e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mainak/.gradle/caches/transforms-2/files-2.1/5a97afdc0c9eb718f97035c089788a5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mainak/.gradle/caches/transforms-2/files-2.1/5a97afdc0c9eb718f97035c089788a5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/15a9c45b897b97677343133bccea40e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/15a9c45b897b97677343133bccea40e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/efe9a9d23a05a1c659b4b734efb069d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/efe9a9d23a05a1c659b4b734efb069d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/a0cce0e68ad2bf1dfab76d3429bb66b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/a0cce0e68ad2bf1dfab76d3429bb66b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/cb417ae66f1cc1691b0a9c193246c8e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/cb417ae66f1cc1691b0a9c193246c8e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/a0b312ca29767d16cc7d995b66ee7c0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/a0b312ca29767d16cc7d995b66ee7c0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/7962838c3066a06748cd03e3b4410bbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/7962838c3066a06748cd03e3b4410bbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/9fd342ea18ce11ab59c833cfa02a2408/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/9fd342ea18ce11ab59c833cfa02a2408/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/590008c629dd61d79f0d349c3badcd24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/590008c629dd61d79f0d349c3badcd24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/mainak/.gradle/caches/transforms-2/files-2.1/28ddd741ed461efaea44283fbe1a92ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/mainak/.gradle/caches/transforms-2/files-2.1/28ddd741ed461efaea44283fbe1a92ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/616b4b7f25c387751d0fda07abfdae3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/616b4b7f25c387751d0fda07abfdae3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/9b23b2601e6dc1fee64986023adef92d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/9b23b2601e6dc1fee64986023adef92d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/8209c8b4c95bc216ba858129aa22303e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/8209c8b4c95bc216ba858129aa22303e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/904f558982651fcc0c1e7967600fcdef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/904f558982651fcc0c1e7967600fcdef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/53d5eb6fa8e5c477c5405a9193327243/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/53d5eb6fa8e5c477c5405a9193327243/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/39ac51847fa4f21a76929079838c03fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/39ac51847fa4f21a76929079838c03fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/152837866666c5095e33b22a00df95dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/152837866666c5095e33b22a00df95dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/5be22607dac7dfc564a06cd957fd1503/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/5be22607dac7dfc564a06cd957fd1503/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/86cd0e425ae5f852a2e8fc9ac007babf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/86cd0e425ae5f852a2e8fc9ac007babf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/d37256b8b172a21929113ba6f3f0c9ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/d37256b8b172a21929113ba6f3f0c9ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/b758d8c2f86015fafa30b63a36f86a56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/b758d8c2f86015fafa30b63a36f86a56/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/4261e65c9838fda5bdb262ffb86ccbcc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/mainak/.gradle/caches/transforms-2/files-2.1/4261e65c9838fda5bdb262ffb86ccbcc/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/mainak/Videos/mainak_projects/React-Native/concept_media_player/android/app/src/debug/AndroidManifest.xml:5:22-75
